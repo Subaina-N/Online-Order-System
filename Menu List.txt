@@ -1,0 +1,236 @@
+Category_Pizza
+Tikka
+700
+Fajita
+700 
+Supreme
+700
+Malai Boti
+850
+Pepperoni
+800
+BBQ
+900
+Hawaiian
+850
+Chicken Alfredo
+800
+Margharita
+850
+Vegetarian
+800
+Category_Burger
+Patty
+180
+Chicken
+200
+Zinger
+300
+Grilled
+340
+Beef
+400
+BBQ
+350
+Italian
+320
+Chicken Mac
+470
+Mega Crspy
+300
+Doppler
+320
+Category_Pasta
+White Sauce
+300
+White Sizzling
+320
+Smoky
+340 
+Alfrado
+350
+American
+380 
+Roasted
+400
+Macaroni
+340
+Spaghetti
+310
+Orecchitte
+400
+Farfalle
+450
+Category_Sandwich
+Chicken
+140
+Egg
+120
+Seafood
+150
+Roast Beef
+200
+Grilled Cheese
+300
+Nutella
+350
+Grilled Chicken
+250
+Prawn
+350
+Olive
+300
+Category_Desi Food
+Chicken Karahi
+600
+White Karahi
+700
+Achari Karahi
+750
+Beef Karahi
+1400
+Mutton Karahi
+2500
+Butter Chicken
+900
+Jalferzi
+550
+Dal Makhni
+160
+Baray Paye
+400
+Chotay paye
+600
+Matar Paneer
+200
+Tikka Handi
+650
+Hyderabadi Handi
+650
+Ginger Handi
+500
+Green Handi
+600
+Rajistani Handi
+700
+Smoky Handi
+660
+Fish handi
+800
+Chicken Biryani
+250
+Mutton Briyani
+300
+Category_BBQ
+Reshmi Kabab
+800
+Behari Kabab
+850
+Seekh Kabab
+800
+Chapli Kabab
+600
+Mutton Kabab
+950
+Cheese Kabab
+950
+Paneer Tikka
+700
+Malai Tikka
+950
+Afghani Tikka
+950
+Leg Piece
+350
+Breast Piece
+1400 
+Chicken Boti
+700
+Mutton Boti
+950
+Shashlik
+950
+Chargha Full
+1100
+Mutton Ribs
+1850
+Finger Fish
+950
+Fish Tikka
+1400
+Fried Prawns
+1500
+Chicken Steak
+1200
+Category_Beverages
+Cold Drinks
+80
+Lime Water
+100
+Sting Limca
+90
+Apple Juice
+150
+Cranberry Juice
+160
+Orange Juice
+130
+Grapefruit Juice
+150
+Mango Juice
+120
+Banana Shake
+120
+Chocolate Shake
+140  
+Mango Shake 
+100
+Oreo Shake
+200
+Bounty Shake
+170 
+Strawberry Shake
+180
+Iced Coffee
+200
+Hot Coffee
+180
+Capchino Coffee
+350
+Cold Coffee
+300
+Green Tea
+200
+Kawa
+200
+Category_Desserts
+Chocolate Cake
+450
+Chocolate Browine
+300
+Apple Pastery
+150
+Vanilla Traffil
+200
+Firni
+500
+Kheer
+550
+Sheer Khurma
+700
+Gulab Jaman
+120
+Gajjar Halwa
+450
+Jelly
+200
+Donuts
+100
+Vanilla Moose
+250
+Strawberry Moose
+250
+Peanut Cookies
+150
+Egg Pudding
+250
